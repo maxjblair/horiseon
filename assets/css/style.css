@@ -43,7 +43,7 @@ header div ul li {
 
 a {
     color: #ffffff;
-    /*text-decoration: none; Removed for accessibility - non-color indicator */
+    /*text-decoration: none; Removed for accessibility - a non-color indicator is preferred */
 }
 
 p {
@@ -52,11 +52,21 @@ p {
 
 .hero {
     height: 800px;
-    width: 100%;
+    /*width: 100%;*/
+    width: 97.4%;
+    margin-top: -20px;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /*background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    */
+    overflow: hidden;
+
+}
+
+.hero img {
+    margin-top: -94px;
+    width: 100%;
 }
 
 .float-left {
