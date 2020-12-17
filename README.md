@@ -1,5 +1,14 @@
 # 01 HTML CSS Git: Code Refactor
 
+Readme
+
+Sample Horiseon website for accessibility. Files have been optimized for accessibility readers. That includes working links, improving html structure,  and consolidated css file with comments. 
+
+Link to site: https://maxjblair.github.io/horiseon/
+
+## END OF README
+
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
